@@ -12,5 +12,12 @@ $ poetry install
 $ poetry shell
 ```
 
-Then run the notebook on this environment.
-Please make sure you put your Iris crendentials in the notebook.
+Then, create a `.env` file in this repository and set the following environment variables:
+
+```
+IRIS_USERNAME=your_iris_username
+IRIS_PASSWORD=your_iris_password
+```
+
+Finally, run the notebook on this python environment 
+using Jupiter notebook or your favorite IDE.
