@@ -1,10 +1,15 @@
-# Iris Access data 
+# How to access to Iris data? 
 
-Install the python virtual environment (see: https://python-poetry.org)
+Here is a simple example to access to Iris data in Python via SQL queries.
+You muse register to the website first and have validated account.
 
-```
-poetry install 
-poetry shell
+# Setup
+
+Install the python virtual environment (see: https://python-poetry.org).
+
+```shell
+$ poetry install 
+$ poetry shell
 ```
 
 Then run the notebook on this environment.
