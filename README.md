@@ -1,7 +1,7 @@
 # How to access to Iris data? 
 
-Here is a simple example to access to Iris data in Python via SQL queries.
-You muse register to the website first and have validated account.
+Here is a simple example to access to Iris data in Python via SQL queries.  
+You must register to the website first and have validated account.
 
 # Setup
 
